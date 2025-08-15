@@ -4,6 +4,8 @@
 	IMPORTANT:  
 		NOTE: This Whole project folder consists of two Projects( PROJECT 1 & PROJECT 2).
 
+  		Project 1 is simple version of project 2. They both are very similar and uses same system.  2 is just the more advance version of 1
+
 
 
 	PROJECT 1:
