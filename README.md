@@ -14,3 +14,4 @@
 	PROJECT 2:
 		(Uses SPI Protocol): This one uses the SPI communication protocol. 
 		It is implementation of " Header Control System " in Arduino. It uses SPI protocol & its functions to read data from sensor.
+  		So, make sure to include < #include <Wire.h> > // Library for I²C communication
