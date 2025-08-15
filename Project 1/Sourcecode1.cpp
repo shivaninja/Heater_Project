@@ -1,5 +1,4 @@
 
-#include <Arduino.h>
 // ================== ENUM ==================
 enum HeaterState {
   IDLE,
