@@ -3,7 +3,6 @@
 
 	IMPORTANT:  
 		NOTE: This Whole project folder consists of two Projects( PROJECT 1 & PROJECT 2).
-
   		NOTE: Project 2 is updated version of 1. They both are very similar and uses same system.  The Only difference is the protocol & sensor they use.
 
 
