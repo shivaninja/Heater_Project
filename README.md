@@ -8,7 +8,8 @@
 
 	PROJECT 1:
 		(No SPI Protocol): This one does not uses the SPI communication protocol. 
-		It is implementation of " Header Control System " in Arduino. It uses built in ADC(Analog to digital converter) & its function to read data from sensor.
+		It is implementation of " Header Control System " in Arduino. It uses built in ADC(Analog to digital converter) & its in built function "analogRead()"
+ 		to read data from sensor.
 
 
 	PROJECT 2:
