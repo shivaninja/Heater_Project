@@ -21,7 +21,11 @@
 		Project 2 uses LM75 sensor.
 
 
-	Minimum Sensors Required:
+	Minimum Hardware & Sensors Required:
+ 		Arduino Uno.
+   		LED.
+	 	200 ohm resistors recommended.
+   		Conducting wires.
 		Temperature Sensor (TMP36 or LM75)                                                                              
         	To measure the current temperature so the Arduino can decide whether to  turn the heater on or off.
 		Required: Analog: TMP36, LM75 — simple, low cost, connect to an analog input pin.
